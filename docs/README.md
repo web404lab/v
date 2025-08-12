@@ -21,3 +21,4 @@ features:
     details: Default bundler is Vite, while Webpack is also supported. Choose the one you like!
 footer: MIT Licensed | Copyright © 2018-present
 ---
+HelloWorld
